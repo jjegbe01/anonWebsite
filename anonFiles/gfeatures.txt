@@ -1,0 +1,9 @@
+Hey /v/.
+I've got an idea, lets make a guide of graphical features to be free to use to everyone on the board.
+Everyone should be able to participate by making corrections, suggestions and offering comparison screenshots.
+
+First step: Gather a list of graphical features and screenshots (in ".png" , ".tga" or ".tiff" format).
+Second step: Divide and subdivide (Antialias: SSAA/FXAA/SMAA...)
+Third step: Make a short summary of the use of the feature and its types.
+Fourth step: Add comparison screenshots.
+Fifth step: ?
